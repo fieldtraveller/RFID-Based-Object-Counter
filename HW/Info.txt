@@ -1,4 +1,5 @@
 1) Connect the EM18 RFID reader to the a serial to usb bridge(FTDI or any other equivalent).
 2) Plug in the serial to usb bridge to the PC.
 3) Install neccessary driver according to your chip used.
-4) Run your build....enjoy.
+4) Run your build. 
+5) Get the RFID chip in close proximity to the reader and viola your chip has been read...enjoy.
